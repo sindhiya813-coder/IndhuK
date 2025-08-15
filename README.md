@@ -26,11 +26,11 @@ Implemented fraud detection methods to identify and prevent fraudulent transacti
 Techniques: Logistic Regression, Decision Trees, Neural Networks, real-time monitoring concepts.
 
 ## Technologies Used
-#Programming Language: Python
-Libraries: Pandas, Matplotlib, Seaborn, WordCloud
-Tools: Google Colab, Jupyter Notebook
+* Programming Language: Python.
 
+* Libraries: Pandas, Matplotlib, Seaborn, WordCloud.
 
+* Tools: Google Colab, Jupyter Notebook.
 
 ### What I Learnt
 
