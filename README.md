@@ -11,8 +11,6 @@ This repository contains three data-driven projects that demonstrate my skills i
 Exploratory Data Analysis on a retail sales dataset to identify patterns, trends, and insights for better business decision-making.
 Techniques: Data cleaning, descriptive statistics, time series analysis, data visualization.
 
-* File: EDA.ipynb 
-
 ### 2. Customer Segmentation
 
 ### Description:
@@ -26,6 +24,13 @@ Techniques: Data preprocessing, clustering, outlier detection, handling missing 
 
 Implemented fraud detection methods to identify and prevent fraudulent transactions using anomaly detection and machine learning.
 Techniques: Logistic Regression, Decision Trees, Neural Networks, real-time monitoring concepts.
+
+## Technologies Used
+#Programming Language: Python
+Libraries: Pandas, Matplotlib, Seaborn, WordCloud
+Tools: Google Colab, Jupyter Notebook
+
+
 
 ### What I Learnt
 
