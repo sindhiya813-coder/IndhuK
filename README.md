@@ -28,11 +28,9 @@ Techniques: Logistic Regression, Decision Trees, Neural Networks, real-time moni
 ### What I Learnt
 
 * Cleaning and preparing real-world datasets for analysis.
+* Extracting insights through EDA and visualization.
+* Applying clustering for segmentation.
 
-*Extracting insights through EDA and visualization.
+* Implementing ML models for classification and anomaly detection.
 
-*Applying clustering for segmentation.
-
-*Implementing ML models for classification and anomaly detection.
-
-*Interpreting results to guide business strategies.
+* Interpreting results to guide business strategies.
