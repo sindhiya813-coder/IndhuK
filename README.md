@@ -12,7 +12,7 @@ Exploratory Data Analysis on a retail sales dataset to identify patterns, trends
 Techniques: Data cleaning, descriptive statistics, time series analysis, data visualization.
 
 **Data set:**
-menu.csv
+menu.csv 
 Supermart Grocery Sales - Retail Analytics Dataset.csv
 
 ### 2. Customer Segmentation
